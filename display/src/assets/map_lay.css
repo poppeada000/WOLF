@@ -1,0 +1,6 @@
+html {
+    background: url(map_us.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
